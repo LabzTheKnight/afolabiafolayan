@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/afolabiafolayan/static/css/main.71297554.css",
-    "main.js": "/afolabiafolayan/static/js/main.0ec9a8eb.js",
+    "main.css": "/afolabiafolayan/static/css/main.3ebc4c21.css",
+    "main.js": "/afolabiafolayan/static/js/main.66519b56.js",
     "static/js/453.ad7768ec.chunk.js": "/afolabiafolayan/static/js/453.ad7768ec.chunk.js",
-    "static/media/clipart.png": "/afolabiafolayan/static/media/clipart.7cc8d77bd7d67f947ce8.png",
+    "static/media/clipart.png": "/afolabiafolayan/static/media/clipart.77a3f0aa3830ee9c0267.png",
     "static/media/resume.pdf": "/afolabiafolayan/static/media/resume.0feecb30e2c7a50eeebf.pdf",
     "static/media/profile.png": "/afolabiafolayan/static/media/profile.5ec1429025ddcf310231.png",
     "index.html": "/afolabiafolayan/index.html",
-    "main.71297554.css.map": "/afolabiafolayan/static/css/main.71297554.css.map",
-    "main.0ec9a8eb.js.map": "/afolabiafolayan/static/js/main.0ec9a8eb.js.map",
+    "main.3ebc4c21.css.map": "/afolabiafolayan/static/css/main.3ebc4c21.css.map",
+    "main.66519b56.js.map": "/afolabiafolayan/static/js/main.66519b56.js.map",
     "453.ad7768ec.chunk.js.map": "/afolabiafolayan/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71297554.css",
-    "static/js/main.0ec9a8eb.js"
+    "static/css/main.3ebc4c21.css",
+    "static/js/main.66519b56.js"
   ]
 }
