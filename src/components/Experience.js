@@ -8,6 +8,16 @@ function Experience() {
 
   const experienceData = [
     {
+      title: 'Working Student',
+      company: 'Hochschule Rhein-Waal',
+      period: '01/2025 - present',
+      location: 'Kamp-Lintfort, Germany',
+      description: 'Leading training sessions and support team members in achieving their performance goals.',
+      icon: 'fas fa-user-graduate',
+      color: 'text-blue-300',
+      highlights: ['Training leadership', 'Team performance coaching', 'Goal achievement support']
+    },
+    {
       title: 'Assistant Teacher',
       company: 'Le Wagon Institute',
       period: '09/2022 - 03/2023',

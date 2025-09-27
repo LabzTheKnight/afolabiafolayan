@@ -115,7 +115,7 @@ function Header() {
             }`} style={{ animationDelay: '0.6s' }}>
               Full-stack developer and creative problem solver. I build digital experiences that 
               <span className="text-emerald-400 font-semibold"> captivate users</span> and 
-              <span className="text-teal-400 font-semibold"> drive business growth</span>.
+              <span className="text-teal-400 font-semibold"> turn ideas into results</span>.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 animate-fadeInUp" style={{ animationDelay: '0.8s' }}>
