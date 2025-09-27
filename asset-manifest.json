@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/afolabiafolayan/static/css/main.76ef7a08.css",
-    "main.js": "/afolabiafolayan/static/js/main.a723f7d5.js",
+    "main.css": "/afolabiafolayan/static/css/main.a36cb245.css",
+    "main.js": "/afolabiafolayan/static/js/main.14a68ec4.js",
     "static/js/453.ada858fa.chunk.js": "/afolabiafolayan/static/js/453.ada858fa.chunk.js",
     "static/media/WhatsApp Image 2024-09-14 at 11.32.51.png": "/afolabiafolayan/static/media/WhatsApp Image 2024-09-14 at 11.32.51.cb4da9bdd38572cb4ef2.png",
     "static/media/CV Resume.pdf": "/afolabiafolayan/static/media/CV Resume.cb8d3102d9bcb2051eeb.pdf",
     "index.html": "/afolabiafolayan/index.html",
-    "main.76ef7a08.css.map": "/afolabiafolayan/static/css/main.76ef7a08.css.map",
-    "main.a723f7d5.js.map": "/afolabiafolayan/static/js/main.a723f7d5.js.map",
+    "main.a36cb245.css.map": "/afolabiafolayan/static/css/main.a36cb245.css.map",
+    "main.14a68ec4.js.map": "/afolabiafolayan/static/js/main.14a68ec4.js.map",
     "453.ada858fa.chunk.js.map": "/afolabiafolayan/static/js/453.ada858fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76ef7a08.css",
-    "static/js/main.a723f7d5.js"
+    "static/css/main.a36cb245.css",
+    "static/js/main.14a68ec4.js"
   ]
 }
