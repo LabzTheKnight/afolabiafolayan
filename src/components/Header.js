@@ -133,12 +133,13 @@ function Header() {
               </a>
               
               <a
-                href="#contact"
+                href={resumePDF}
+                download
                 className="group px-8 py-4 border-2 border-emerald-500/60 text-white font-semibold rounded-full transition-all duration-500 hover:border-emerald-400 hover:bg-emerald-500/15 hover:scale-105 backdrop-blur-sm relative overflow-hidden"
               >
                 <span className="relative flex items-center">
-                  <i className="fas fa-comments mr-3 group-hover:animate-pulse text-emerald-400"></i>
-                  Let's Connect
+                  <i className="fas fa-download mr-3 group-hover:animate-pulse text-emerald-400"></i>
+                  Download my CV
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-emerald-400/5 to-teal-400/5 translate-x-full group-hover:translate-x-0 transition-transform duration-500"></div>
               </a>
