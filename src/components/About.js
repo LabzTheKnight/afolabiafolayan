@@ -89,7 +89,7 @@ function About() {
                 isDarkMode ? 'text-gray-300' : 'text-gray-600'
               }`}>
                 I build polished, production-ready web applications — primarily with React on the frontend and
-                Spring Boot / Node.js on the backend. I focus on shipping reliable features, clean APIs, and
+                 Node.js on the backend. I focus on shipping reliable features, clean APIs, and
                 delightful user experiences.
               </p>
 
@@ -114,7 +114,7 @@ function About() {
                   <h4 className="text-teal-300 font-semibold mb-1">Backend</h4>
                   <p className={`text-sm ${
                     isDarkMode ? 'text-gray-300' : 'text-gray-600'
-                  }`}>Spring Boot, Node.js, REST</p>
+                  }`}> Node.js, REST, Python</p>
                 </div>
               </div>
             </div>

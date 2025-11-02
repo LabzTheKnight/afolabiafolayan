@@ -9,19 +9,15 @@ function Skills() {
 
   const skills = [
     { name: 'Ruby on Rails', iconClass: 'fas fa-gem', color: '#dc2626', level: 5 },
-    { name: 'React', iconClass: 'fab fa-react', color: '#06b6d4', level: 4 },
-    { name: 'Git', iconClass: 'fab fa-git-alt', color: '#f97316', level: 4 },
-    { name: 'SQL', iconClass: 'fas fa-database', color: '#3b82f6', level: 3 },
-    { name: 'JavaScript', iconClass: 'fab fa-js-square', color: '#facc15', level: 4 },
-    { name: 'Node.js', iconClass: 'fab fa-node', color: '#22c55e', level: 3 },
-    { name: 'Express.js', iconClass: 'fas fa-server', color: '#64748b', level: 3 },
-    { name: 'MongoDB', iconClass: 'fas fa-leaf', color: '#16a34a', level: 3 },
     { name: 'Python', iconClass: 'fab fa-python', color: '#3776ab', level: 3 },
-    { name: 'Docker', iconClass: 'fab fa-docker', color: '#2496ed', level: 2 },
-    { name: 'Java', iconClass: 'fab fa-java', color: '#ed8936', level: 3 },
-    { name: 'Spring Boot', iconClass: 'fas fa-leaf', color: '#6db33f', level: 3 },
-    { name: 'TypeScript', iconClass: 'fab fa-js-square', color: '#3178c6', level: 3 },
-    { name: 'HTML/CSS', iconClass: 'fab fa-html5', color: '#e34f26', level: 4 },
+    { name: 'JavaScript', iconClass: 'fab fa-js-square', color: '#facc15', level: 3 },
+    { name: 'React', iconClass: 'fab fa-react', color: '#06b6d4', level: 3 },
+    { name: 'Git', iconClass: 'fab fa-git-alt', color: '#f97316', level: 4 },
+    { name: 'Node.js', iconClass: 'fab fa-node', color: '#22c55e', level: 3 },
+    { name: 'SQL', iconClass: 'fas fa-database', color: '#3b82f6', level: 3 },
+    { name: 'MongoDB', iconClass: 'fas fa-leaf', color: '#16a34a', level: 2 },
+    { name: 'Docker', iconClass: 'fab fa-docker', color: '#2496ed', level: 3 },
+    { name: 'Java', iconClass: 'fab fa-java', color: '#ed8936', level: 2 },
     { name: 'Tailwind CSS', iconClass: 'fas fa-palette', color: '#06b6d4', level: 4 }
   ];
 
@@ -82,7 +78,7 @@ function Skills() {
           </p>
         </div>
 
-        <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4">
+        <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 gap-4">
           {skills.map((skill, index) => (
             <div
               key={index}

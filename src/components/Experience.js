@@ -41,7 +41,7 @@ function Experience() {
 
   const educationData = [
     {
-      title: 'Communication and Information Engineering',
+      title: 'Bachelor of Science in Communication and Information Engineering',
       company: 'Hochschule Rhein-Waal',
       period: '10/2019 – present',
       location: 'Kamp-Lintfort, Germany',
@@ -51,7 +51,7 @@ function Experience() {
       highlights: ['Software-focused curriculum', 'Signals & systems basics', 'Team projects']
     },
     {
-      title: 'Full Stack Web Development',
+      title: 'Full Stack Web Development Bootcamp',
       company: 'Le Wagon Institute',
       period: '07/2022 – 09/2022',
       location: 'Cologne, Germany',
